@@ -8,7 +8,7 @@
 
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
+# Lenguages & Herramientas 👨‍💻 🛠:
 </br>
 
 <p align="center">
