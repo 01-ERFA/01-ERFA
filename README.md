@@ -33,8 +33,8 @@ Si quieres comunicarte conmigo sobre cualquier cosa, ya sea por alguna duda o si
     <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
   </a>
   <a href="https://www.discordapp.com/users/1023322189556093049" style="border-radius:1px solid red;">
-<!--     <img align="left" alt="Discord" hight="40px" src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" /> Discord -->
-    Discord
+  <img align="left" alt="Discord" width="150" hight="100" src="https://github.com/01-ERFA/01-ERFA/blob/main/icons/Discord.png" /> 
+    
   </a>
 </p>
 </br>
