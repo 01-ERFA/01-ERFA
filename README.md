@@ -1,8 +1,8 @@
 #  Acerca de Mi 💬 :
 
-### - Holaa, tengo 20 años y me encanta el desarrollo web :3 
+### - Holaa,  ¿sabías que me encanta el desarrollo web? Mira mis últimos proyectos :3 
 
-### - Aprendiendo :
+### - En continuo aprendisaje  :
 - ✨ Desarrollo web tanto en el frontend como en el backend 
 - ✨ Inglés
 
@@ -38,5 +38,8 @@ Si quieres comunicarte conmigo sobre cualquier cosa, ya sea por alguna duda o si
   </a>
 </p>
 </br>
+</br>
+</br>
+<p align="center">atukdibe@gmail.com</p>
 </br>
 
